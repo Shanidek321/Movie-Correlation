@@ -2,7 +2,7 @@
 <h3> Using Movies Dataset from Kaggle that includes information about Movies.</h3>
 <h4> This project was done in Jupyter Notebook using Python exclusively.</h4>
 <h4> Things I did in this analysis:</h4>
-- Data Cleaning - I've arranged the dates so they're more easily used and removed duplicates.
+- Data Cleaning: I've arranged the dates so they're more easily used and removed duplicates.
 <br>
 - Checking the correlation between movie budgets and gross earnings
 <br>
